@@ -75,8 +75,7 @@ input:checked {
   align-items: center;
   background: rgb(1, 103, 197) url(../images/larajaAzul.png) no-repeat center /
     100% 100%;
-  height: calc(84vh);
-  margin-top: 13vh;
+  height: calc(100vh);
 }
 .textBanner {
   width: 80%;
