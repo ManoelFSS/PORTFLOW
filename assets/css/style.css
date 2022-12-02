@@ -73,12 +73,13 @@ input:checked {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: rgb(1, 103, 197) url(../images/larajaAzul.png) no-repeat center /
-    100% 100%;
+  background: rgb(1, 103, 197) url(../images/larajaAzul.png) no-repeat center 60px /
+  100% 100%;
   height: calc(100vh);
 }
 .textBanner {
   width: 80%;
+  margin-top: 130px;
 }
 .textBanner h2 {
   display: inline-flex;
